@@ -4,11 +4,15 @@
 **
 ** Class: 	CSC 242
 ** Assignment: 	Assignment 5: Comprehensive Program Challenge
-** File: 	Main.cpp
+** File: File.h
 ** Description:
+** This program reads words from a dictionary file and a document file,
+** then compares the document words against the dictionary to identify
+** and display any misspelled words. The program uses functions to
+** organize tasks such as loading files and checking spelling.
 **
 ** Author: 	Alexandra Gonzalez, Karon Eley, Edward Davis
-** Date: 	2/25/26
+** Date: 	2/24/26
 ** -------------------------------------------------------------------------*/
 
 
