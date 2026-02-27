@@ -31,4 +31,12 @@ int main()
 		//Searching document text for errors.
 		file.SearchDocument(file.dictionaryWords, file.documentWords);
 	}
+
+	else
+	{
+		std::cout << "File loading failed. Spell check aborted."
+			<< std::endl;
+	}
+
+	return 0;
 }
