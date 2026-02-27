@@ -1,12 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\GroupProject\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\alexa\\source\\repos\\GroupProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF6ADB1B-1FBF-44C1-922A-6B323BCC6D61}|GroupProject.vcxproj|C:\\Users\\alexa\\source\\repos\\GroupProject\\File.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DF6ADB1B-1FBF-44C1-922A-6B323BCC6D61}|GroupProject.vcxproj|solutionrelative:File.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "File.h",
+              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\GroupProject\\File.h",
+              "RelativeDocumentMoniker": "File.h",
+              "ToolTip": "C:\\Users\\alexa\\source\\repos\\GroupProject\\File.h*",
+              "RelativeToolTip": "File.h*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-27T05:35:37.94Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
